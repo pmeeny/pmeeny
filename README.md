@@ -2,7 +2,12 @@
 
 I am a Senior Product Manager at ICON plc
 
-I have a BSc. Computer Science from NUI Maynooth and a Diploma in Full Stack Development from teh Code Institute
+I have a BSc. Computer Science from NUI Maynooth and a Diploma in Full Stack Development from the Code Institute
+
+My linkedin profile: <a target="_blank" href="https://www.linkedin.com/in/paulmeeneghan/"><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
+ 
+![Pauls GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmeeny&theme=chartreuse-dark&show_icons=true)
+
 
 ---
 
