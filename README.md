@@ -2,7 +2,7 @@
 
 I am a Senior Product Manager at ICON plc
 
-I have a BSc. Computer Science and a Diploma in Full Stack Development
+I have a BSc. Computer Science from NUI Maynooth and a Diploma in Full Stack Development from teh Code Institute
 
 ---
 
