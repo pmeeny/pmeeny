@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Senior Manager, Product Delivery at ICON plc. In the past I have worked for Dell and Ericsson.
+I am a Software Engineering Manager at Intel. In the past I have worked for Ericsson, Dell and ICON.
 
 I have a BSc. Computer Science from NUI Maynooth and a Diploma in Full Stack Development from the Code Institute
 
